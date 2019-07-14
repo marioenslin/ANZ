@@ -1,0 +1,6 @@
+{"id":10,"accountName":"SGSavings726","accountNumber":"585309209","valueDate":"08/11/2018","currency":"SGD","dtAmount":0,"ctAmount":9540.98,"dtCt":"Credit","transactionNarative":null}
+{"id":20,"accountName":"SGSavings726","accountNumber":"585309209","valueDate":"08/11/2018","currency":"SGD","dtAmount":0,"ctAmount":5564.79,"dtCt":"Credit","transactionNarative":null}
+{"id":30,"accountName":"AUSavings933","accountNumber":"791066619","valueDate":"08/11/2018","currency":"AUD","dtAmount":0,"ctAmount":1235.79,"dtCt":"Credit","transactionNarative":null}
+{"id":40,"accountName":"SGSavings726","accountNumber":"585309209","valueDate":"08/11/2018","currency":"SGD","dtAmount":0,"ctAmount":7497.82,"dtCt":"Credit","transactionNarative":null}
+{"id":50,"accountName":"AUSavings933","accountNumber":"791066619","valueDate":"08/11/2018","currency":"AUD","dtAmount":0,"ctAmount":5158.79,"dtCt":"Credit","transactionNarative":null}
+{"id":60,"accountName":"AUCurrent433","accountNumber":"321143048","valueDate":"08/11/2018","currency":"AUD","dtAmount":0,"ctAmount":5498.79,"dtCt":"Credit","transactionNarative":null}
